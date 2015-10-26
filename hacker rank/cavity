@@ -1,0 +1,9 @@
+# re
+if __name__ == '__main__':
+    n = input()
+    i=0
+    b=[]
+    while i in range(0,n-1):
+        b[i] = list( raw_input().strip().split())
+        c[i] = list(b[i])
+        
