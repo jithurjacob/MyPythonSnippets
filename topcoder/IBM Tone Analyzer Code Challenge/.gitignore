@@ -1,13 +1,3 @@
-# Refernce files
-
-conference management/python - Conference track management - Code Review Stack Exchange_files/
-conference management/Solution for Tech Problems_ Problem Statement - Conference Track Management_files/
-conference management/*.html
-
-topcoder/personality-insights-python-master/
-topcoder/tone-analyzer-nodejs-master/
-
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -23,7 +13,6 @@ develop-eggs/
 dist/
 downloads/
 eggs/
-lib/
 lib64/
 parts/
 sdist/
