@@ -64,6 +64,7 @@ def partition(arr,start,end):
 def quickSort(arr,start,end):
 	if start<end:
 		pivot=partition(arr,start,end)
+		print "pivot",pivot
 		quickSort(arr,start,pivot-1)#sorts the left side of pivot.
 		quickSort(arr,pivot+1,end)#sorts the right side of pivot.
 	return arr
