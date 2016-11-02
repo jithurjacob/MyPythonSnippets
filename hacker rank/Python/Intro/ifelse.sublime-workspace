@@ -1,0 +1,946 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fi",
+				"find_str"
+			],
+			[
+				"or",
+				"ord"
+			],
+			[
+				"num",
+				"num_days"
+			],
+			[
+				"num_",
+				"num_hours"
+			],
+			[
+				"tim",
+				"time_diff"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"mon",
+				"moneyOut"
+			],
+			[
+				"year",
+				"year-month"
+			],
+			[
+				"mone",
+				"moneyIn"
+			],
+			[
+				"acc",
+				"acc_div"
+			],
+			[
+				"ut",
+				"UTC"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"new",
+				"newPath"
+			],
+			[
+				"el",
+				"elem"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"s",
+				"showDoc"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"win",
+				"winontop"
+			],
+			[
+				"tes",
+				"test_y"
+			],
+			[
+				"tr",
+				"train_y"
+			],
+			[
+				"train",
+				"train_X"
+			],
+			[
+				"tra",
+				"train_X"
+			],
+			[
+				"sec",
+				"sectionTotal"
+			],
+			[
+				"secti",
+				"section"
+			],
+			[
+				"se",
+				"sectionCorrect"
+			],
+			[
+				"resul",
+				"results_table"
+			],
+			[
+				"ta",
+				"table	Tag"
+			],
+			[
+				"sect",
+				"sectionCorrect"
+			],
+			[
+				"sectio",
+				"sectionCorrect"
+			],
+			[
+				"next",
+				"nextSectionId"
+			],
+			[
+				"cu",
+				"currentSectionId"
+			],
+			[
+				"corr",
+				"correct_ans"
+			],
+			[
+				"pro",
+				"prop"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cor",
+				"correct"
+			],
+			[
+				"ques",
+				"questions_container"
+			],
+			[
+				"che",
+				"checkAnswers"
+			],
+			[
+				"ne",
+				"nextSectionId"
+			],
+			[
+				"qns",
+				"qns_div"
+			],
+			[
+				"json",
+				"jsonify"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"max",
+				"maxLen"
+			],
+			[
+				"file",
+				"file2"
+			],
+			[
+				"sq",
+				"squeezeCopy"
+			],
+			[
+				"ana",
+				"analysis_type"
+			],
+			[
+				"user",
+				"user_handle"
+			],
+			[
+				"dat",
+				"datetime"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"sho",
+				"showMessage"
+			],
+			[
+				"use",
+				"user_handles"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"all",
+				"alltweets"
+			],
+			[
+				"get",
+				"get_all_tweets_tag"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"name",
+				"names_"
+			],
+			[
+				"names",
+				"names_"
+			],
+			[
+				"nam",
+				"name1"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"st",
+				"student"
+			],
+			[
+				"cro",
+				"cropped_image"
+			],
+			[
+				"da",
+				"datasets"
+			],
+			[
+				"att",
+				"attrData"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"cha",
+				"chart1"
+			],
+			[
+				"ch",
+				"chart1"
+			],
+			[
+				"chart",
+				"chart2"
+			],
+			[
+				"notjoi",
+				"notjoining"
+			],
+			[
+				"coll",
+				"collegeid"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"inse",
+				"insert_stud"
+			],
+			[
+				"c",
+				"class	New Class"
+			],
+			[
+				"E",
+				"Exception"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"na",
+				"nameCheck"
+			],
+			[
+				"ad",
+				"addStudent"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"sts",
+				"statuses"
+			],
+			[
+				"data",
+				"data-id"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"stu",
+				"Students"
+			],
+			[
+				"ale",
+				"alert"
+			],
+			[
+				"college",
+				"collegeid"
+			],
+			[
+				"my",
+				"myModalBtn"
+			],
+			[
+				"moda",
+				"docsModal"
+			],
+			[
+				"ins",
+				"insert_student"
+			],
+			[
+				"no",
+				"None"
+			],
+			[
+				"has",
+				"hash"
+			],
+			[
+				"hash",
+				"hashes"
+			],
+			[
+				"md",
+				"md5_file"
+			],
+			[
+				"tup",
+				"tuples"
+			],
+			[
+				"thre",
+				"thread"
+			],
+			[
+				"nu",
+				"num_ignored"
+			],
+			[
+				"oth",
+				"othersScript"
+			],
+			[
+				"hi",
+				"hide"
+			],
+			[
+				"u",
+				"used"
+			],
+			[
+				"updt",
+				"updates"
+			],
+			[
+				"thr",
+				"threads"
+			],
+			[
+				"like",
+				"liked"
+			],
+			[
+				"h",
+				"hicon"
+			],
+			[
+				"to",
+				"toastNotify"
+			],
+			[
+				"sha",
+				"sha1"
+			],
+			[
+				"l",
+				"list_files"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"src",
+				"src_list"
+			],
+			[
+				"li",
+				"list_copy"
+			],
+			[
+				"su",
+				"sum_e"
+			],
+			[
+				"sum",
+				"sum_o"
+			],
+			[
+				"bha",
+				"bhabi"
+			],
+			[
+				"ra",
+				"raw_input"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"par",
+				"parsed_html"
+			],
+			[
+				"sr",
+				"src_list"
+			],
+			[
+				"do",
+				"download"
+			],
+			[
+				"upd",
+				"updateScript	module"
+			],
+			[
+				"m",
+				"main"
+			],
+			[
+				"i",
+				"ifmain	if __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 316.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/python/MyPythonSnippets/hacker rank/Python/String/findCountOfSubstrings.py",
+		"/E/python/MyPythonSnippets/hacker rank/Python/String/swapCase.py",
+		"/E/python/MyPythonSnippets/hacker rank/Python/XML/xml2 - depth of the xml.py",
+		"/E/python/MyPythonSnippets/hacker rank/Python/XML/xml1 - total number of attributes .py",
+		"/E/python/MyPythonSnippets/hacker rank/Python/XML/xml1.py",
+		"/C/Users/Jithu R Jacob/.ssh/config",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Jithu R Jacob/.docker/machine/machines/vdocker/config.json",
+		"/E/python/JioTwitterBot/Procfile",
+		"/E/python/JioTwitterBot/bot.py",
+		"/C/Users/Jithu R Jacob/.docker/machine/machines/default/config.json",
+		"/E/python/JioTwitterBot/.gitignore",
+		"/E/python/Cognizant/moxtra/Moxtra POC 2.2/application.py",
+		"/E/python/Cognizant/moxtra/Moxtra POC 2.2/templates/index.html",
+		"/E/python/Cognizant/citi project/vivek code/js/demo.js",
+		"/E/python/Cognizant/citi project/vivek code/css/style.css",
+		"/C/Anaconda2/Lib/site-packages/PIL/Image.py",
+		"/E/python/Cognizant/moxtra/moxtra-meet-python-sample-master/static/index.html",
+		"/E/python/Cognizant/moxtra/moxtra-meet-python-sample-master/server.py",
+		"/E/python/Cognizant/moxtra/af25ab69073020e764e409aaa1d51048-8fe0050f686639f9baa48f08231d936a7eca44a6/chat_full.html",
+		"/Z/junk/krypto/arcanum/arcanum-server-master/servernew.py",
+		"/Z/junk/krypto/arcanum/arcanum-client-master/main.py",
+		"/E/python/Cognizant/Barclays/Aggregator/static/js/demo.js",
+		"/E/python/Cognizant/Barclays/Aggregator/charts.py",
+		"/E/python/Cognizant/Barclays/Aggregator/transactions_sample.json",
+		"/E/python/Cognizant/Barclays/Barclays v3/server.py",
+		"/E/python/Cognizant/Barclays/Aggregator/server.py",
+		"/E/python/Cognizant/Barclays/Aggregator/customer_sample.json",
+		"/Z/junk/krypto/arcanum/arcanum-server-master/server.py",
+		"/E/python/Cognizant/Barclays/Barclays v3/sample.json",
+		"/E/python/Cognizant/Barclays/Aggregator/app.py",
+		"/E/python/Cognizant/EAZAuto Bot/server.py",
+		"/E/python/JSON Flattener/flatter.py",
+		"/E/python/jithurjacob.github.io/index.html",
+		"/E/python/jithurjacob.github.io/css/style.css",
+		"/E/python/jithurjacob.github.io/js/main.js",
+		"/E/python/jithurjacob.github.io/js/text-autotype.js",
+		"/E/python/JSON Flattener/json2csv.py",
+		"/E/python/Cognizant/Ticket Tool Automation/Automation/static/uploads/temp-plot.html",
+		"/E/python/DOJ/templates/index.html",
+		"/E/python/MyPythonSnippets/hacker rank/Data Science in 10 days/Day 0 Mean Median and Mode.py",
+		"/E/python/Flask SocketIO/server.py",
+		"/E/python/Flask SocketIO/templates/index.html",
+		"/E/python/MyPythonSnippets/hacker rank/Data Science in 10 days/Day 0 Mean Median and Mode.c",
+		"/C/Users/Jithu R Jacob/AppData/Roaming/Sublime Text 3/Packages/User/myC.sublime-build",
+		"/C/Users/Jithu R Jacob/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
+		"/E/python/winontop/setup.py",
+		"/C/Anaconda2/Lib/distutils/command/register.py",
+		"/E/python/.pypirc",
+		"/E/python/winontop/winontop/winontop.py",
+		"/E/python/winontop/setup.cfg",
+		"/E/python/winontop/README",
+		"/E/python/Alexa/EAZAutoBot/lambda_function.py",
+		"/E/python/winontop/winontop-runner.py",
+		"/E/python/winontop/winontop/__main__.py",
+		"/C/Users/Jithu R Jacob/AppData/Roaming/Sublime Text 3/Packages/Pylinter/Default (Windows).sublime-keymap",
+		"/C/Users/Jithu R Jacob/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Jithu R Jacob/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Jithu R Jacob/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Jithu R Jacob/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/python/EAZAuto Bot/server.py",
+		"/E/desktop/true_trans/true_trans/bin/Debug/map/mal.map",
+		"/Z/junk/Twitter-Malayalam-Dict-Bot-master/Twitter-Malayalam-Dict-Bot-master/mlbot.py",
+		"/Z/junk/Twitter-Malayalam-Dict-Bot-master/Twitter-Malayalam-Dict-Bot-master/Twitter-ml-bot.py",
+		"/Z/junk/Twitter-Malayalam-Dict-Bot-master/Twitter-Malayalam-Dict-Bot-master/test.py",
+		"/Z/Kitchen/xossip downloader/new/download.py",
+		"/Z/Kitchen/xossip downloader/new/addnew.py",
+		"/Z/Kitchen/xossip downloader/new/update.py",
+		"/E/python/prem/app.py",
+		"/E/python/prem/test.py",
+		"/E/python/Ticket Analyzer/new/Backup/PredictionAPI - Copy.py",
+		"/E/pic/svg/emil.svg",
+		"/E/pic/svg/index.html",
+		"/E/python/prem/templates/index.html",
+		"/E/python/prem/static/js/prem.js",
+		"/E/python/DOJ/static/js/toolkit.js",
+		"/E/python/prem/static/js/libs.js",
+		"/E/python/DOJ/static/js/libs.js",
+		"/E/python/DOJ/static/js/application.js",
+		"/E/python/DOJ/static/js/doj.js",
+		"/E/python/prem/static/js/application.js",
+		"/E/python/prem/static/css/style.scss.css",
+		"/E/python/Jigsaw Assignments/ML 2/centeralign.py",
+		"/E/python/Jigsaw Assignments/ML 1/squeeze.py",
+		"/E/python/Ticket Analyzer/new/Backup/static/js/twitter_home.js",
+		"/E/python/Ticket Analyzer/new/Backup/static/css/data_analyzer.css",
+		"/E/python/Ticket Analyzer/new/Backup/TextAnalysisAPI.py",
+		"/E/python/Ticket Analyzer/new/Backup/static/js/twitterAnalysis.js",
+		"/E/python/Ticket Analyzer/new/Backup/templates/twitterUserAnalysis.html",
+		"/E/python/Ticket Analyzer/new/Backup/templates/twitterAnalysis.html",
+		"/E/python/Ticket Analyzer/new/Backup/app.py",
+		"/E/python/Ticket Analyzer/new/Backup/TwitterAnalysisAPI.py",
+		"/E/python/twitter/tweet_dumper.py",
+		"/E/python/py-calc.py",
+		"/E/python/Ticket Analyzer/new/Backup/static/js/twitterUserAnalysis.js",
+		"/E/python/Ticket Analyzer/new/Backup/FileUploadAPI.py",
+		"/E/python/Ticket Analyzer/new/Backup/templates/twitter_home.html",
+		"/E/python/Ticket Analyzer/new/Backup/static/js/twitterUserAnalytics.js",
+		"/E/python/Ticket Analyzer/new/Backup/templates/data-menu-twitter.html",
+		"/C/Anaconda2/Lib/site-packages/pandas/io/sql.py",
+		"/C/Users/Jithu R Jacob/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+		"/C/Users/Jithu R Jacob/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL-python.sublime-build",
+		"/C/Users/Jithu R Jacob/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/C/Users/Jithu R Jacob/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Default.sublime-commands",
+		"/C/Users/Jithu R Jacob/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/E/python/Resume Builder/templates/resume.html",
+		"/E/python/monitor test",
+		"/E/python/Resume Builder/templates/resume_pure.html",
+		"/E/python/Resume Builder/static/js/builder.js",
+		"/E/python/Resume Builder/static/js/builder.templates.js",
+		"/E/python/Resume Builder/static/js/libs.min.js",
+		"/E/python/Resume Builder/static/server.py",
+		"/E/python/Machine Learning/ChatterBot-master/ChatterBot-master/examples/math_and_time.py",
+		"/E/python/Machine Learning/VectorSpaceModel-master/ir.py",
+		"/E/python/Movie Recommendation/test cf/movies.dat",
+		"/E/python/Movie Recommendation/test cf/1. Collaborative Filtering.ipynb",
+		"/E/python/Smart Search/server-new.py",
+		"/E/python/Machine Learning/chatbot-master/scripts/weblistener.py",
+		"/E/python/Movie Recommendation/movies/user_ratedmovies.dat",
+		"/E/python/Machine Learning/ChatterBot-master/ChatterBot-master/chatterbot/adapters/logic/base_match.py",
+		"/E/python/Machine Learning/chatbot-master/chatbot-master/sample.config.py",
+		"/E/python/Machine Learning/ChatterBot-master/ChatterBot-master/chatterbot/adapters/logic/data/math_words_EN.json",
+		"/E/python/ESPN/templates/top5.html",
+		"/Z/Kitchen/xossip downloader/new/IDMdownload.py",
+		"/Z/Kitchen/xossip downloader/xossip.py",
+		"/E/python/MyPythonSnippets/snippets/Accuweather.py",
+		"/C/Users/Jithu R Jacob/Downloads/mysql-connector-python-2.1.3/mysql-connector-python-2.1.3/examples/dates.py",
+		"/C/Users/Jithu R Jacob/Downloads/mysql-connector-python-2.1.3/mysql-connector-python-2.1.3/examples/prepared_statements.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"Z:\\city_first_poc_message_passing_V4.0_Keras"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"log_user_data",
+			"lemmatize_input",
+			"keras",
+			"control",
+			"import _imaging",
+			"import  _imaging",
+			"cannot import name _imaging",
+			"_imagin",
+			"doe",
+			"alice",
+			"2017",
+			"2016",
+			"2015",
+			"2014",
+			"'",
+			"19-05",
+			"21:0",
+			"19-",
+			"19",
+			"05-1",
+			"05-19",
+			"19-05-",
+			"05-1",
+			"05-19-",
+			"14999",
+			"-2017",
+			"-2016",
+			"-2015",
+			"curs",
+			"chart",
+			"prem",
+			"char",
+			"cha",
+			"\":\"",
+			":[",
+			"}",
+			"{",
+			"twitter_analysis_initialize",
+			"slider",
+			"#slider",
+			"multiselect",
+			"date_alternative",
+			"replace",
+			",",
+			"to_sql",
+			"260",
+			" 356 ",
+			"container",
+			"margin",
+			"ceil",
+			"unkn",
+			"cognizant",
+			"CTS",
+			"in cts",
+			"cts ",
+			"cts",
+			"cognizant",
+			"ign",
+			"enc",
+			"deco",
+			"enc",
+			"ignore",
+			"decode",
+			"encode",
+			"notifica",
+			"default_content_settings",
+			"facebook",
+			"element_screenshot",
+			"id ",
+			"segmen",
+			"fk",
+			"draw",
+			"dough",
+			"data",
+			"bind",
+			"red",
+			"redr",
+			"redra",
+			"redraw",
+			"bs.charts",
+			"redraw.bs.charts",
+			"$.ext",
+			"dough",
+			"data:",
+			"data",
+			"\"",
+			"alert(",
+			"alert",
+			"consol",
+			"chart",
+			"Charts",
+			"Charts(",
+			"Charts[",
+			"Charts",
+			"redraw.bs.charts",
+			"chart",
+			">>>",
+			"Charts",
+			"bs.ch",
+			"bind",
+			"redraw",
+			"updat",
+			"d(",
+			" d(",
+			"d(",
+			"debug",
+			"resize",
+			"canvas",
+			"data-chart",
+			"dou",
+			"added",
+			"fsl fwb fcb",
+			"administrato",
+			"administrator",
+			"Jeya",
+			"class=\"_17tq\"",
+			"txt",
+			"rl",
+			"sr-o",
+			"img-res",
+			"img",
+			"4.5.0",
+			"@import",
+			"nameCheck",
+			"nameCheck'",
+			".css",
+			"Notjo",
+			"myModalResult"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"2016",
+			"2015",
+			"2014",
+			"2013",
+			"\"",
+			"-2016",
+			"-2015",
+			"-2014",
+			"Prem",
+			"\",\"",
+			":",
+			"",
+			"[",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "ifelse.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
