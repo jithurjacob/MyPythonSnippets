@@ -24,12 +24,18 @@ if __name__ == "__main__":
     vals = (i for i in product(bank_accounts, repeat=total_digits))
     sum_vals = []
     vals_ = []
+    done = False
     for val in vals:    
+        if done: break
         sums_ = sum([a*b for a,b in zip(val, const_array)])%m 
         sum_vals.append(sums_)
         vals_.append(val)
         dups = [_ for _ in list_duplicates(sum_vals)]
         if len(dups)>0:
-            for elem in  [vals_[i] for i in dups[0][1]][:2]:
-                print(' '.join([str(i) for i in elem]))
-            break
+            for dup_val in dups:
+                if done: break
+                if(len(dup_val[1])>=2):
+                    print(dup_val)
+                    for elem in  [vals_[i] for i in dup_val[1][:2]]:
+                        print(' '.join([str(i) for i in elem]))                    
+                    done = True
