@@ -11,20 +11,25 @@ def list_duplicates(seq):
 
 
 if __name__ == "__main__":
-    # n, k, p, m = input().strip().split(' ')
-    # n, k, p, m = [int(n), int(k), int(p), int(m)]
+    n, k, p, m = input().strip().split(' ')
+    n, k, p, m = [int(n), int(k), int(p), int(m)]
+    
 
     c = 1 # testing
-    n,k,p,m = 3,4,3,16
     Cn_1 = c*n-1
     total_digits = Cn_1 +1
     bank_accounts = range(1,k+1)
-    vals = [i for i in product(bank_accounts, repeat=total_digits)]
-
     const_array = [ p**(n-1-i) for i in range(0,n) ]
-    #sums = [([a*b for a,b in zip(val, const_array)]) for val in vals ]
-    sums_ = [sum([a*b for a,b in zip(val, const_array)])%m for val in vals ]
-    #new_index_sets = [np.argwhere(i[0]== sums_) for i in np.array(np.unique(sums_, return_counts=True)).T if i[1]>=2]
-    dups = [_ for _ in list_duplicates(sums_)]
-    for elem in  [vals[i] for i in dups[0][1]][:2]:
-        print(' '.join([str(i) for i in elem]))
+
+    vals = (i for i in product(bank_accounts, repeat=total_digits))
+    sum_vals = []
+    vals_ = []
+    for val in vals:    
+        sums_ = sum([a*b for a,b in zip(val, const_array)])%m 
+        sum_vals.append(sums_)
+        vals_.append(val)
+        dups = [_ for _ in list_duplicates(sum_vals)]
+        if len(dups)>0:
+            for elem in  [vals_[i] for i in dups[0][1]][:2]:
+                print(' '.join([str(i) for i in elem]))
+            break
